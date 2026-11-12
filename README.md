@@ -1,6 +1,6 @@
 
 -------------------------------------------------------------------------------------------------------------
-![Bandeira dos EUA](https://flagcdn.com)
+[![English](https://shields.io)](LINK_AQUI)
 English / Inglês
 
 ### Hi there! I'm Bruno de Sousa 👋
