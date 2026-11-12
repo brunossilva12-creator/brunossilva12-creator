@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there! I'm Bruno de Sousa 👋
 
-<!--
-**brunossilva12-creator/brunossilva12-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year High School student enrolled in the **Systems Development Technical Course** through the **SESI / SENAI** partnership in Jaú/SP, Brazil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies & Skills
+* **Web Development:** HTML5, CSS3, and JavaScript.
+* **Artificial Intelligence:** Generative AI fundamentals, neural networks, and natural language processing.
+* **Tools & Practices:** Git, GitHub, Cybersecurity basics, and programming logic.
+
+---
+
+### 📜 Featured Certifications (SENAI-SP)
+* **Programming in Generative Artificial Intelligence** (40h)
+* **Fluency - Fundamentals of Artificial Intelligence** (8h)
+* **Inside Cybersecurity** (4h)
+* **Compliance: Prevent, Identify, and Correct** (6h)
+
+---
+
+### 💻 Featured Projects
+Check out my pinned repositories below, including **SistemaCompras**, **Projeto Conecta Jovem**, and **GaleriaInterativa**.
+
