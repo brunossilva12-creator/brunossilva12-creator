@@ -1,3 +1,7 @@
+
+-------------------------------------------------------------------------------------------------------------
+🇺🇸 English / Inglês
+
 ### Hi there! I'm Bruno de Sousa 👋
 
 I'm a 2nd-year High School student enrolled in the **Systems Development Technical Course** through the **SESI / SENAI** partnership in Pederneiras/SP, Brazil.
