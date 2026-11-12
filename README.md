@@ -22,7 +22,7 @@ Estudante do 2º ano do Ensino Médio integrado ao curso **Técnico em Desenvolv
 ---
 
 ### 💻 Projetos em Destaque
-Confira abaixo os repositórios fixados, incluindo o **Sistema de Compras**, o **Projeto Conecta Jovem** e a **Galeria Interativa**.
+Confira abaixo os repositórios fixados, incluindo o **Aula Comando Voz**, o **Projeto Conecta Jovem** e a **Galeria Interativa**.
 
 
 -------------------------------------------------------------------------------------------------------------
@@ -52,5 +52,5 @@ I'm a 2nd-year High School student enrolled in the **Systems Development Technic
 ---
 
 ### 💻 Featured Projects
-Check out my pinned repositories below, including **SistemaCompras**, **Projeto Conecta Jovem**, and **GaleriaInterativa**.
+Check out my pinned repositories below, including **Aula Comando Voz**, **Projeto Conecta Jovem**, and **GaleriaInterativa**.
 
