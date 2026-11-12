@@ -1,6 +1,7 @@
 
 -------------------------------------------------------------------------------------------------------------
-:🇺🇸: English / Inglês
+![Bandeira dos EUA](https://flagcdn.com)
+English / Inglês
 
 ### Hi there! I'm Bruno de Sousa 👋
 
