@@ -1,7 +1,34 @@
+Português-BR / Brazilian portuguese
+
+### Olá! Eu sou o Bruno de Sousa 👋
+
+Estudante do 2º ano do Ensino Médio integrado ao curso **Técnico em Desenvolvimento de Sistemas** pela parceria **SESI / SENAI** (Jaú/SP).
+
+---
+
+### 🚀 O que estou estudando e desenvolvendo
+* **Desenvolvimento Web:** HTML5, CSS3 e JavaScript.
+* **Inteligência Artificial:** Fundamentos de IA Generativa, redes neurais e processamento de linguagem natural.
+* **Boas Práticas:** Segurança Cibernética, lógica de programação e versionamento com Git/GitHub.
+
+---
+
+### 📜 Certificações em Destaque (SENAI-SP)
+* **Programação em Inteligência Artificial Generativa** (40h)
+* **Fluência - Fundamentos da Inteligência Artificial** (8h)
+* **Por Dentro da Segurança Cibernética** (4h)
+* **Compliance: Prevenir, Identificar e Corrigir** (6h)
+
+---
+
+### 💻 Projetos em Destaque
+Confira abaixo os repositórios fixados, incluindo o **Sistema de Compras**, o **Projeto Conecta Jovem** e a **Galeria Interativa**.
+
 
 -------------------------------------------------------------------------------------------------------------
-[![English](https://shields.io)](LINK_AQUI)
-English / Inglês
+
+
+Inglês / English
 
 ### Hi there! I'm Bruno de Sousa 👋
 
