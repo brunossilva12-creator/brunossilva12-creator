@@ -2,7 +2,7 @@ Português-BR / Brazilian portuguese
 
 ### Olá! Eu sou o Bruno de Sousa 👋
 
-Estudante do 2º ano do Ensino Médio integrado ao curso **Técnico em Desenvolvimento de Sistemas** pela parceria **SESI / SENAI** (Jaú/SP).
+Estudante do 2º ano do Ensino Médio integrado ao curso **Técnico em Desenvolvimento de Sistemas** pela parceria **SESI / SENAI** (Pederneiras/SP).
 
 ---
 
